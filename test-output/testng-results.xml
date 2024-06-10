@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-10T16:33:46 IST" name="Default suite" finished-at="2024-06-10T16:34:28 IST" duration-ms="42773">
+    <groups>
+    </groups>
+    <test started-at="2024-06-10T16:33:46 IST" name="Default test" finished-at="2024-06-10T16:34:28 IST" duration-ms="42773">
+      <class name="tests.NaukriLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NaukriLoginTest@6c1a5b54]" started-at="2024-06-10T16:33:46 IST" name="setup" finished-at="2024-06-10T16:34:25 IST" duration-ms="38887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testregistertab()[pri:0, instance:tests.NaukriLoginTest@6c1a5b54]" started-at="2024-06-10T16:34:25 IST" name="testregistertab" finished-at="2024-06-10T16:34:26 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testregistertab -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.NaukriLoginTest@6c1a5b54]" started-at="2024-06-10T16:34:26 IST" name="tearDown" finished-at="2024-06-10T16:34:28 IST" duration-ms="2930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.NaukriLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
